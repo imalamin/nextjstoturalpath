@@ -29,9 +29,9 @@ export default function RootLayout({
     >
 
       <body className="min-h-full flex flex-col">
-        NavBar
+        Root NavBar
         {children}
-        Footer
+        Root Footer
       </body>
     </html>
   );
